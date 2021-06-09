@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CursoApplication<CursoME>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.digitalse.Curso.CursoApplication",
+            "projectName": "CursoME",
+            "args": ""
+        }
+    ]
+}
